@@ -1,4 +1,4 @@
-# Course Management Platform Backend
+# Course Management Platform
 
 This is the backend for the Course Management Platform, built with NestJS and Prisma.
 
